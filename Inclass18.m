@@ -1,4 +1,9 @@
 % In class 18
+%GB comments
+1. 100
+2. 100
+Overall: 100
+
 
 % Problem 1. In this directory, you will find the same image of yeast cells as you used
 % in homework 5. First preprocess the image any way you like - smoothing, edge detection, etc. 
